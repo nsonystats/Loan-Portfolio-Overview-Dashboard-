@@ -1,4 +1,8 @@
 # Loan-Portfolio-Overview-Dashboard-
+<img width="1428" height="805" alt="Screenshot 2025-09-03 211012" src="https://github.com/user-attachments/assets/afff27cd-9373-4f37-9f76-2365eabfa35a" />
+<img width="1428" height="803" alt="Screenshot 2025-09-03 211035" src="https://github.com/user-attachments/assets/4dbff40d-337d-42d2-bd9a-73fd7e2cb248" />
+<img width="1434" height="801" alt="Screenshot 2025-09-03 211054" src="https://github.com/user-attachments/assets/a999d3e7-f54a-47f7-9089-b3b215fbbed4" />
+
 This repository showcases a Power BI dashboard analyzing a bank’s loan portfolio. The project demonstrates how data visualization can be applied to monitor loan performance, assess credit risk, and support decision-making in the banking sector.
 
 #Objective
@@ -10,7 +14,6 @@ Monitoring of disbursements, repayments, and overdue loans.
 Identification of high-risk loans and Non-Performing Assets (NPAs).
 
 Better decision-making for credit risk management and policy adjustments.
-<img width="1428" height="803" alt="Screenshot 2025-09-03 211035" src="https://github.com/user-attachments/assets/4dbff40d-337d-42d2-bd9a-73fd7e2cb248" />
 
 #Business Relevance
 
